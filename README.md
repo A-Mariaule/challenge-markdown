@@ -13,7 +13,7 @@ Future développeur web
 | Genre| Homme|
 |Couleur favorite| jaune|
 |plat préféré|Tarte aux lentilles|
-|annanas sur la pizza| <ul><li>[] Oui</li></ul><ul><Li> [x] Non</li><ul> |
+|annanas sur la pizza| <ul><li>[] Oui</li></ul><ul><Li> [x] Non</li></ul> |
 
 
 ## Hobbies
