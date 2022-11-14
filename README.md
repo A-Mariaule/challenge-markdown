@@ -7,7 +7,7 @@
 ## Moi en une ligne :
 Future développeur web
 
-
+|Données | Réponses|
 | -------------------| ----------|
 | Date d'anniversaire| 09/01/1998|
 | Genre| Homme|
