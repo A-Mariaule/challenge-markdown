@@ -8,13 +8,13 @@
 Future développeur web
 
 
-| -----------------------| -------------------|
-| Date d'anniversaire    | 09/01/1998         |
-| Genre                  | Homme              |
-|Couleur favorite        | jaune              |
-|plat préféré            |Tarte aux lentilles |
-|annanas sur la pizza    | <ul><li>-[] Oui -[x] Non</li><ul> |
-| -----------------------| -------------------|
+| -------------------| -------------------|
+| Date d'anniversaire| 09/01/1998|
+| Genre| Homme|
+|Couleur favorite| jaune|
+|plat préféré|Tarte aux lentilles|
+|annanas sur la pizza| <ul><li>-[] Oui</ul></li><ul><Li> -[x] Non</li><ul> |
+
 
 ## Hobbies
 
